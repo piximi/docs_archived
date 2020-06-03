@@ -4,6 +4,14 @@ description: 'Run Piximi locally, the quick and easy way'
 
 # Getting Started
 
+## Install Lerna
+
+We use [lerna](https://github.com/lerna/lerna) to organize our project. More in the packages section.
+
+```text
+yarn add -D lerna
+```
+
 ## 1. Download the Repository
 
 Get the latest master of Piximi from Github

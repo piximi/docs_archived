@@ -18,6 +18,8 @@ If you find yourself duplicating code, it’s time to create a new package. Pack
 
 ## Organization
 
+We use Yarn workspaces to organize our code into a modern mono repo \([10 min video tutorial: Yarn Workspace](https://www.youtube.com/watch?v=G8KXFWftCg0)\) and lerna for handling the workspace \([10 min video tutorial: Lerna](https://www.youtube.com/watch?v=p6qoJ4apCjA)\).
+
 This repository includes both the Piximi web app \(`packages/piximi`\) and the handful of discrete @piximi sub-packages \(`packages/@piximi/*`\) written concurrently or alongside the web app. The packages included in the packages directory are versioned together and simultaneously published to the NPM package repository.
 
 #### @piximi/components
