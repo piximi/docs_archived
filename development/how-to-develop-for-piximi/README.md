@@ -28,6 +28,10 @@ There’re also a number of areas that’d benefit from non-technical contributo
 
 {% page-ref page="scripts-and-lerna.md" %}
 
+### Frequently asked questions about development
+
+{% page-ref page="faq.md" %}
+
 ### 💕 Thank you so
 
 Thank you so much for trying to help us out with Piximi!
