@@ -9,4 +9,4 @@
   * [Packages](development/how-to-develop-for-piximi/packages.md)
   * [React](development/how-to-develop-for-piximi/react.md)
   * [Scripts & Lerna](development/how-to-develop-for-piximi/scripts-and-lerna.md)
-
+  * [FAQ](development/how-to-develop-for-piximi/faq.md)
