@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Outdated documentation -> see piximi/piximi
+
 ---
 description: >-
   a free, open-source web app for annotating, training, and evaluating image
